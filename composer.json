@@ -1,5 +1,5 @@
 {
-    "name": "mageguide/module-mglogger",
+    "name": "mageguide/mglogger",
     "description": "Adds Custom Logger Functionality mageguide.log",
     "require": {
         "php": "~7.0.0",
