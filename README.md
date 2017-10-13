@@ -1,7 +1,7 @@
 # MGLogger
 Adds Custom Logger Functionality (mageguide.log)
 
-Usage example: 
+Usage example;
 
 class MGLoggerExample
 {
