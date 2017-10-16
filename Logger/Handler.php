@@ -1,5 +1,5 @@
 <?php
-namespace MageGuide\MGLogger\Logger;
+namespace MageGuide\Mglogger\Logger;
 
 use Monolog\Logger;
 
