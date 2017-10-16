@@ -1,20 +1,20 @@
 <?php
-namespace MageGuide\MGLogger\UsageExample;
+namespace MageGuide\Mglogger\UsageExample;
 
-class MGLoggerExample
+class MgloggerExample
 {
     /**
      * Logging instance
-     * @var \MageGuide\MGLogger\Logger\Logger
+     * @var \MageGuide\Mglogger\Logger\Logger
      */
     protected $_mglogger;
 
     /**
      * Constructor
-     * @param \MageGuide\MGLogger\Logger\Logger $mglogger
+     * @param \MageGuide\Mglogger\Logger\Logger $mglogger
      */
     public function __construct(
-        \MageGuide\MGLogger\Logger\Logger $mglogger
+        \MageGuide\Mglogger\Logger\Logger $mglogger
     ) {
         $this->_mglogger = $mglogger;
     }
