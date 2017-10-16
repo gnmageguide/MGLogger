@@ -1,4 +1,4 @@
-# MGLogger
+# Mglogger
 Adds Custom Logger Functionality (mageguide.log)
 
 Usage example:
@@ -14,7 +14,7 @@ Usage example:
          * Constructor injection
          */
         public function __construct(
-            \MageGuide\MGLogger\Logger\Logger $mglogger
+            \MageGuide\Mglogger\Logger\Logger $mglogger
         ) {
             $this->_mglogger = $mglogger;
         }
