@@ -1,4 +1,4 @@
-# Mglogger
+# MageGuide_Mglogger_M2
 Adds Custom Logger Functionality (mageguide.log)
 
 Usage example:
